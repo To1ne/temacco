@@ -1,0 +1,9 @@
+#+TITLE:      Temacco's Emacs configuration
+#+AUTHOR:     Toon Claes
+#+KEYWORDS:   toon claes temacco emacs config
+#+OPTIONS:    toc:4 h:4 ':t
+#+STARTUP:    showall
+
+* About this file
+
+This project is moved to [[https://gitlab.com/to1ne/temacco][GitLab]].
